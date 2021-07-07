@@ -8,6 +8,7 @@ use App\Models\LopHoc;
 class LopHocController extends Controller
 {
 
+    // sadasdsadsadsadsadsa
     private $per_page = 2;
     /**
      * Display a listing of the resource.
